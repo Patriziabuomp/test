@@ -1,1 +1,1 @@
-web: pip install . -U && myapp-run
+web: pip install . -U && patriziapp-run
